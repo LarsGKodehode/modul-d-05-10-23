@@ -1,0 +1,6 @@
+.card {
+  background-color: coral;
+  max-width: 40rem;
+  padding: 2rem 1rem;
+  border-radius: 10px;
+}
